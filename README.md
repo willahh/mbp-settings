@@ -7,3 +7,6 @@ This repository contains configuration files and setup scripts for customizing a
 - Development Environment Setup: Scripts and settings to set up programming environments for languages like Node.js, Python, etc.
 - VSCode Setup: Includes settings, extensions, and keybindings for Visual Studio Code.
 - System Preferences: Custom macOS system settings and keyboard shortcuts to boost productivity.
+
+## Emacs
+Refer to https://github.com/willahh/emacs_profile
