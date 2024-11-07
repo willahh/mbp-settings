@@ -23,3 +23,6 @@ echo -e "\nexport PS1='[\u@\h \W$(__git_ps1 \" (%s)\")]\$ '"
 ## Simplify the authentication process
 https://github.com/git-ecosystem/git-credential-manager
 
+# Typescript
+npm install -g typescript
+npm install -g ts-node #ts-node to execute Typscript in Node.js
