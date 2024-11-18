@@ -26,3 +26,7 @@ https://github.com/git-ecosystem/git-credential-manager
 # Typescript
 npm install -g typescript
 npm install -g ts-node #ts-node to execute Typscript in Node.js
+
+# Bash completion
+brew install bash-completion
+
