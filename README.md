@@ -10,3 +10,4 @@ This repository contains configuration files and setup scripts for customizing a
 
 ## Emacs
 Refer to https://github.com/willahh/emacs_profile
+
