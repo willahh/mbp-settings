@@ -35,3 +35,6 @@ npm install -g typescript
 npm install -g ts-node #ts-node to execute Typscript in Node.js
 
 
+# Global http-server for test
+npm install -g http-server
+
