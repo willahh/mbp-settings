@@ -190,3 +190,7 @@ fi
 
 
 
+# Automatically launch tmux if not already in a tmux session
+if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
+  tmux
+fi
