@@ -21,11 +21,11 @@ set updatetime=300       " Réduit les délais d'auto-save ou de mise à jour (e
 
 " === Apparence ===
 set background=dark      " Optimisé pour les thèmes sombres
-colorscheme desert       " Thème simple (par défaut)
+colorscheme slate       " Thème simple (par défaut)
 
 " === Sauvegarde et fichiers ===
-set backup               " Active la sauvegarde des fichiers
-set backupdir=~/.vim/backup// " Définit le dossier pour les sauvegardes
+"set backup               " Active la sauvegarde des fichiers
+"set backupdir=~/.vim/backup// " Définit le dossier pour les sauvegardes
 
 " === Plugins ===
 filetype plugin on       " Active la détection et le support des types de fichier
