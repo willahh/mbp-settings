@@ -6,6 +6,11 @@
 - Install zsh
 
 ``
+brew install jq
+brew install tmux
+``
+
+``
 # Clone emacs profile
 git clone https://github.com/willahh/emacs_profile.git .emacs.d
 ``
