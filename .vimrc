@@ -2,7 +2,6 @@
 set nocompatible         " Désactive le mode compatible avec vi (activer les fonctionnalités modernes)
 syntax on                " Active la coloration syntaxique
 set number               " Affiche les numéros de ligne
-set relativenumber       " Numéros relatifs pour naviguer facilement
 set cursorline           " Surligne la ligne courante
 set tabstop=4            " Largeur d'une tabulation (affichage)
 set shiftwidth=4         " Largeur utilisée pour l'indentation
