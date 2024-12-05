@@ -15,6 +15,10 @@ brew install diff-so-fancy
 git clone https://github.com/willahh/emacs_profile.git .emacs.d
 
 ``
+
+## git config
+git config --global push.autoSetupRemote true
+
 ## zsh 
 ## Git plugin
 echo -e "\nplugins=(git)" >> ~/.zshrc
