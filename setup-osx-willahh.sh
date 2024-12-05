@@ -48,3 +48,13 @@ npm install -g typescript
 npm install -g ts-node      #t s-node to execute Typscript in Node.js
 npm install -g http-server  # Global http-server for test
 ``
+
+# Java
+``
+brew install openjdk
+``
+
+# Clojure
+``
+brew install clojure/tools/clojure
+``

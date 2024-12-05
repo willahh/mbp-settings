@@ -109,3 +109,4 @@ fi
 # if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
 #  tmux
 # fi
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
