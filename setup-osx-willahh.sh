@@ -9,6 +9,7 @@ brew install git
 brew install jq
 brew install tmux
 brew install diff-so-fancy
+brew install the_silver_searcher # ag searches
 ``
 
 # Clone emacs profile
