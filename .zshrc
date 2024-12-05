@@ -113,8 +113,8 @@ export NVM_DIR="$HOME/.nvm"
 # Tab key binding to accept suggestion
 
 
-# test
-# bindkey '^I' autosuggest-accept
+# autosuggest-[a]ccept
+bindkey '^a' autosuggest-accept
 
 
 
