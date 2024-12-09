@@ -1,7 +1,10 @@
-
+```
 # Will setup
 - Install brew
 - Install zsh
+- clipy # Clipy is a Clipboard extension app for macOS.https://clipy-app.com/
+```
+
 
 ``sh
 brew install emacs
@@ -26,6 +29,13 @@ echo -e "\nplugins=(git)" >> ~/.zshrc
 echo -e "\nsource /usr/share/git/git-prompt.sh" >> ~/.zshrc
 echo -e "\nexport PS1='[\u@\h \W$(__git_ps1 \" (%s)\")]\$ '"
 ``
+
+
+```
+# npm
+npm install -g jwt-cli # jwt utility
+```
+
 
 ``
 #zsh-autosuggestions
