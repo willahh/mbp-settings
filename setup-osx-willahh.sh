@@ -13,6 +13,7 @@ brew install jq
 brew install tmux
 brew install diff-so-fancy
 brew install the_silver_searcher # ag searches
+brew install bash-completion # bash-completion
 ``
 
 # Clone emacs profile

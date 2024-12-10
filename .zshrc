@@ -109,4 +109,13 @@ fi
 # if command -v tmux &> /dev/null && [ -z "$TMUX" ]; then
 #  tmux
 # fi
+
+# openjdk path
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+
+
+# REAL_ZSHRC_PATH 
+ZSH_DIR=$(dirname $(realpath $(readlink -f ~/.zshrc)))
+
+# echo $ZSH_DIR
+# source "$ZSH_DIR/scripts/git-completion.bash"
