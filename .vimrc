@@ -30,3 +30,6 @@ colorscheme slate       " Thème simple (par défaut)
 " === Plugins ===
 filetype plugin on       " Active la détection et le support des types de fichier
 
+
+" Remap Ctrl+g to exit insert mode
+inoremap <C-g> <Esc>
