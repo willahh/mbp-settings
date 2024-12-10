@@ -28,7 +28,7 @@ export NVM_DIR="$HOME/.nvm"
 
 
 
-# autosuggest-[a]ccept
+# autosuggest-accept
 bindkey '^j' autosuggest-accept
 
 

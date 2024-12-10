@@ -16,6 +16,13 @@ brew install the_silver_searcher # ag searches
 brew install bash-completion # bash-completion
 ``
 
+
+``sh 
+ln -s ~/perso/dotfiles/.zshrc ~/.zshrc
+ln -s ~/perso/dotfiles/.vimrc ~/.vimrc
+``
+
+
 # Clone emacs profile
 git clone https://github.com/willahh/emacs_profile.git .emacs.d
 
