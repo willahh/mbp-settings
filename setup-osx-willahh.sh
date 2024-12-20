@@ -15,6 +15,8 @@ brew install diff-so-fancy
 brew install the_silver_searcher # ag searches
 brew install bash-completion # bash-completion
 brew install python
+brew install openjdk
+brew install clojure/tools/clojure # Clojure!
 ``
 
 
@@ -38,7 +40,6 @@ echo -e "\nplugins=(git)" >> ~/.zshrc
 echo -e "\nsource /usr/share/git/git-prompt.sh" >> ~/.zshrc
 echo -e "\nexport PS1='[\u@\h \W$(__git_ps1 \" (%s)\")]\$ '"
 ``
-
 
 ```
 # npm
@@ -71,14 +72,4 @@ git config --global color.ui true
 npm install -g typescript
 npm install -g ts-node      #t s-node to execute Typscript in Node.js
 npm install -g http-server  # Global http-server for test
-``
-
-# Java
-``
-brew install openjdk
-``
-
-# Clojure
-``
-brew install clojure/tools/clojure
 ``
